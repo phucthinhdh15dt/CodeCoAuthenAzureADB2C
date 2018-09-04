@@ -1,0 +1,29 @@
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.deps.json
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.runtimeconfig.json
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.runtimeconfig.dev.json
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.dll
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.csprojAssemblyReference.cache
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.RazorAssemblyInfo.cache
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.RazorAssemblyInfo.cs
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.AssemblyInfo.cs
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.RazorTargetAssemblyInfo.cache
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.pdb
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.dll
+C:\Users\thinh\source\repos\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.pdb
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.deps.json
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.runtimeconfig.json
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.runtimeconfig.dev.json
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.dll
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\bin\Debug\netcoreapp2.1\testdbfirst.pdb
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.csprojAssemblyReference.cache
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.csproj.CoreCompileInputs.cache
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.RazorAssemblyInfo.cache
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.RazorAssemblyInfo.cs
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.AssemblyInfoInputs.cache
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.AssemblyInfo.cs
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.RazorTargetAssemblyInfo.cache
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.dll
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\testdbfirst.pdb
+D:\LƯU TRỮ CODE\Project mẫu của tôi asp.net core web api CRUD 4Table\testdbfirst\testdbfirst\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

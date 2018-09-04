@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DemoWebaspnetcore" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\LƯU\ TRỮ\ CODE\\Project\ mẫu\ của\ tôi\ asp\.net\ core\ web\ api\ CRUD\ 4Table\\testdbfirst\\testdbfirst\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
